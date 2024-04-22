@@ -30,7 +30,7 @@
   "devDependencies": {
     "flow-bin": "0.73.0",
     "flow-copy-source": "^1.1.0",
-    "gh-pages": "0.11.0",
+    "gh-pages": "5.0.0",
     "husky": "0.11.9",
     "nwb": "0.21.0",
     "prettier": "^1.8.2",
